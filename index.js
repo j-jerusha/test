@@ -7,4 +7,5 @@ function sub(a,b){
 }
 
 sum(1,9)
-sub(9,9
+sub(9,9)
+subO(ejkdwek)
